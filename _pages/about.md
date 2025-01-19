@@ -9,4 +9,8 @@ redirect_from:
 
 # About Me
 
-I am a second year student from [EECS](https://eecs.pku.edu.cn/), [Peking University](https://pku.edu.cn/), 
+I am a second year undergraduate student from [EECS](https://eecs.pku.edu.cn/), [Peking University](https://pku.edu.cn/). I major in Information and Computing Science.
+
+# My Projects
+
+
