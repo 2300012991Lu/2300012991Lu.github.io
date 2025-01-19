@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage of Chang'an Lu"
 title_separator          : "-"
 name                     : &name "陆昶安 Chang'an Lu"
 description              : &description "A second year student from PKU"
