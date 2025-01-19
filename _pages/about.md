@@ -15,12 +15,12 @@ I am a second year undergraduate student from [EECS](https://eecs.pku.edu.cn/), 
 
 ## Projects I Own
 
-*[Reversi](https://github.com/2300012991Lu/Reversi)
+* [Reversi](https://github.com/2300012991Lu/Reversi)
 
-*[Blue Noise in Arbitrary Dimensions](https://github.com/2300012991Lu/Blue-Noise)
+* [Blue Noise in Arbitrary Dimensions](https://github.com/2300012991Lu/Blue-Noise)
 
 ## Projects I Participate In
 
-*[Terrain Generator](https://github.com/Decmofofs/Course-Projects-For-Learning-in-PKU/tree/main/Practice-of-Programming-in-C%26C%2B%2B/QTLAB)
+* [Terrain Generator](https://github.com/Decmofofs/Course-Projects-For-Learning-in-PKU/tree/main/Practice-of-Programming-in-C%26C%2B%2B/QTLAB)
 
-*[Let's Make Pottery](https://github.com/2300012991Lu/2024cv-Fall-Pottery/)
+* [Let's Make Pottery](https://github.com/2300012991Lu/2024cv-Fall-Pottery/)
